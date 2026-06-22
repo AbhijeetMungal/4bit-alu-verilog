@@ -1,3 +1,4 @@
+<img width="1918" height="228" alt="Screenshot 2026-06-22 161012" src="https://github.com/user-attachments/assets/74dd3c41-d4d0-4d23-9151-eb8194c4e298" />
 
 A 4-bit Arithmetic Logic Unit (ALU) designed and verified in Verilog HDL.
 ## Operation supportted
